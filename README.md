@@ -12,8 +12,8 @@ To get started, you'll need to set up a virtual environment and install the nece
 First, clone this repository to your local machine if you haven't done so already.
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/denisangel2k2/machine-learning-sp
+cd machine-learning-sp
 ```
 ### 2. Set Up a Virtual Environment
 Setting up a virtual environment helps isolate dependencies and avoids conflicts with other Python projects on your system.
