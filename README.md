@@ -20,14 +20,14 @@ Setting up a virtual environment helps isolate dependencies and avoids conflicts
 
 #### For windows:
 ```bash
-python -m venv env
-env\Scripts\Activate.ps1
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 ```
 
 #### For Linux
 ```bash
-python3 -m venv env
-source env/bin/activate
+python3 -m venv .venv
+source .venv/bin/activate
 ```
 
 ### 3. Install Dependencies
